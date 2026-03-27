@@ -1,0 +1,11 @@
+[
+  {
+    "id": "b6dcd3b3-079a-4240-9490-954d9b180629",
+    "username": "admin",
+    "email": "admin@example.com",
+    "passwordHash": "$2b$10$R7o4RuqvYK/axaPFLbEwP.ivlBypBx0iklwo7xyeGZtOR/5CPr4qK",
+    "role": "admin",
+    "createdAt": "2026-03-27T02:33:24.068Z",
+    "updatedAt": "2026-03-27T02:33:24.068Z"
+  }
+]
