@@ -3,7 +3,7 @@ const dotenv = require("dotenv");
 
 dotenv.config({ path: path.join(process.cwd(), ".env"), quiet: true });
 
-const PORT = Number(process.env.PORT) || 3000;
+const PORT = Number(process.env.PORT) || 4000;
 
 module.exports = {
   PORT,
